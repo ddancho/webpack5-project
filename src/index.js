@@ -1,3 +1,4 @@
-import "./style/index.scss";
+import { render } from "react-dom";
+import App from "./components/App";
 
-document.querySelector("h1").innerText = "Webpack Project";
+render(<App />, document.getElementById("root"));

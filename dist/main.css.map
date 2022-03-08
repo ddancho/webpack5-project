@@ -1,1 +1,1 @@
-{"version":3,"file":"main.css","mappings":";;;AAAA;EACE;AACF,C","sources":["webpack://webpack5-project/./src/style/index.scss"],"sourcesContent":["h1 {\n  color: blue;\n}\n"],"names":[],"sourceRoot":""}
+{"version":3,"file":"main.css","mappings":";;;AAAA;EACE;AACF,C","sources":["webpack://webpack5-project/./src/style/app.scss"],"sourcesContent":["h1 {\n  color: blue;\n}\n"],"names":[],"sourceRoot":""}
