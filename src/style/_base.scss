@@ -1,0 +1,16 @@
+$base-font-size: 1rem;
+$base-margin: 1rem;
+$base-padding: 1rem;
+$base-border-radius: 10px;
+
+$primary: #1f57cf;
+$secondary: #0dc57e;
+$error: #b8143d;
+$info: #e7b50e;
+
+$colors: (
+  "primary": $primary,
+  "secondary": $secondary,
+  "error": $error,
+  "info": $info,
+);

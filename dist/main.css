@@ -1,8 +1,3 @@
-/*!*******************************************************************************************************************************************************!*\
-  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/style/app.scss ***!
-  \*******************************************************************************************************************************************************/
-h1 {
-  color: blue;
-}
+*{margin:0;padding:0;box-sizing:border-box;font-family:"Source Sans Pro",sans-serif}body{background-color:#f0f2f5}a{text-decoration:none}.container{display:flex;margin:1rem}.btn{display:inline-block;cursor:pointer;padding:1rem;margin:.5rem;border-radius:10px;color:#000;background-color:#fff}.btn--primary{color:#102c68;background-color:#8fabe7}.btn--primary:hover{color:#e7cb8f;background-color:#684c10}.btn--secondary{color:#07633f;background-color:#86e2bf}.btn--secondary:hover{color:#e286a9;background-color:#63072b}.btn--error{color:#5c0a1f;background-color:#dc8a9e}.btn--error:hover{color:#8adcc8;background-color:#0a5c47}.btn--info{color:#745b07;background-color:#f3da87}.btn--info:hover{color:#87a0f3;background-color:#072074}
 
 /*# sourceMappingURL=main.css.map*/

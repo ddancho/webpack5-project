@@ -1,3 +1,5 @@
-h1 {
-  color: blue;
-}
+@import "globals";
+
+@import "base";
+
+@import "components/button/button";
