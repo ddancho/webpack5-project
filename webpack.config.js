@@ -11,4 +11,11 @@ module.exports = {
   },
 
   plugins: [new MiniCssExtractPlugin()],
+
+  devtool: "source-map",
+
+  devServer: {
+    static: "./dist",
+    hot: true,
+  },
 };

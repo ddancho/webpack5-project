@@ -1,0 +1,1 @@
+{"version":3,"file":"main.js","mappings":"mBAEAA,SAASC,cAAc,MAAMC,UAAY,mB","sources":["webpack://webpack5-project/./src/index.js"],"sourcesContent":["import \"./style/index.scss\";\n\ndocument.querySelector(\"h1\").innerText = \"Webpack Project\";\n"],"names":["document","querySelector","innerText"],"sourceRoot":""}
