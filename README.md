@@ -1,1 +1,3 @@
-##Webpack 5.0 with React and Sass
+## Webpack 5.0 with React and Sass
+
+Bootstrapped react app without create-react-app...
