@@ -1,3 +1,4 @@
+@use "../../base" as *;
 @use "sass:math";
 
 @mixin btn($color: #000, $bg-color: #fff) {
